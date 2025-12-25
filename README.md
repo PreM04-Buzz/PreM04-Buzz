@@ -116,7 +116,7 @@ Graph RL · Policy Optimization · Dependency Modeling · Decision Intelligence
 - LinkedIn: https://www.linkedin.com/in/prem-ramalingam-81b35238b   
 - Email: Ramlingam.prem@gmail.com  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PreM04-Buzz/PreM04-Buzz/output/pacman.svg" />
+
+ <p align="center">
+  <img src="assets/snake.gif" alt="Pixel hacker workspace" width="100%"/>
 </p>
- 
